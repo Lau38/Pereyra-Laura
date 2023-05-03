@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align:center ;
+}
+
+h2{
+    background-image: url(https://www.nacionfutbol.com.ar/__export/1678207500351/sites/nacionfutbolarg/img/2023/03/07/demichelis_river_racing_de_cordoba.jpg_2134273170.jpg);
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+blockquote{
+    background-color: aquamarine;
+}
+a{
+    color: white;
+    display: flex;
+    margin-right: 25px;
+    text-align: center;
+    
+}
+nav{
+    background-color: blue;
+    text-align: right;
+    
+}
+
+
+img{
+border-style: double;
+border-radius: 4px;
+}
+body{
+    background-color: white;
+}
